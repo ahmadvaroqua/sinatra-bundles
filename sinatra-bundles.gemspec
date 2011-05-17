@@ -56,11 +56,9 @@ Gem::Specification.new do |s|
   # = MANIFEST =
   s.files = %w[
     Gemfile
-    Gemfile.lock
     LICENSE
     README.md
     Rakefile
-    VERSION
     lib/sinatra/bundles.rb
     lib/sinatra/bundles/bundle.rb
     lib/sinatra/bundles/helpers.rb
