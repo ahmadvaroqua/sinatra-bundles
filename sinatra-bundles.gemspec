@@ -40,8 +40,8 @@ Gem::Specification.new do |s|
   s.add_dependency('packr', ['~> 3.1.0'])
   s.add_dependency('rack', ['~> 1.0'])
   # s.add_dependency('sinatra', ['~> 1.1.0'])
-  # s.add_dependency('sinatra', ['>= 1.1.0'])
-  s.add_dependency('sinatra', ['~> 1.0'])
+  s.add_dependency('sinatra', ['>= 1.1.0'])
+  # s.add_dependency('sinatra', ['~> 1.0'])
 
   ## List your development dependencies here. Development dependencies are
   ## those that are only needed during development
